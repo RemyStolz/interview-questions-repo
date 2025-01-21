@@ -1,0 +1,10 @@
+1.What is the difference between EC2 and Lambda?
+2.How does an Auto Scaling Group (ASG) work in AWS?
+3.What are the different types of AWS storage services, and when should you use them (EBS, S3, EFS, Glacier)?
+4.How do you secure an S3 bucket to prevent unauthorized access?
+5.What is IAM, and what are the different types of IAM policies?
+6.How does AWS Route 53 handle DNS failover?
+7.What are the different types of load balancers in AWS (ALB, NLB, CLB)?
+8.Explain the difference between AWS CloudFormation and Terraform.
+9.What is VPC peering, and how does it work?
+10.How do you troubleshoot high CPU utilization in an EC2 instance?
