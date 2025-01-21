@@ -1,0 +1,10 @@
+1.What are the differences between hard links and soft links in Linux?
+2.How do you check system resource usage (CPU, memory, disk, network) in Linux?
+3.What is the difference between cron and systemd timers?
+4.How do you find and kill a process by name or port in Linux?
+5.What is the difference between sed, awk, and grep?
+6.How do you set file permissions using chmod, chown, and chgrp?
+7.Explain the Linux boot process in detail.
+8.How do you troubleshoot a disk space issue in Linux?
+9.What is a swap partition, and how does it work in Linux?
+10.How do you use SSH key-based authentication to log into a remote Linux server?
